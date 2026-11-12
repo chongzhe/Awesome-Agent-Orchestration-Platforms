@@ -94,6 +94,8 @@ The AI Agent Orchestration and Autonomous Agents sector is projected to grow fro
   Open-source AI employees for main-street business: multitenant company inbox, org chart, and governed procedures.
 - **[Crewly](https://github.com/stevehuang0115/crewly)** [![GitHub stars](https://img.shields.io/github/stars/stevehuang0115/crewly?style=social&color=white)](https://github.com/stevehuang0115/crewly/stargazers)\
   Local, MIT-licensed platform that runs a team of role-based agents (developer, QA, PM, orchestrator) on Claude Code, Codex, and Gemini CLI, with task delegation, shared persistent memory, and a web dashboard of live agent terminals.
+- **[AgentConnect](https://github.com/agentconnect-md/agentconnect)** [![GitHub stars](https://img.shields.io/github/stars/agentconnect-md/agentconnect?style=social&color=white)](https://github.com/agentconnect-md/agentconnect/stargazers)\
+  Apache-2.0 self-hosted platform for multi-agent orchestration across a team: each agent is configured independently with its own ACP runtime, model, workspace, tools, MCP servers, and permissions, and agents can call one another. Reachable from Slack, Telegram, Discord, and Lark, and triggered by GitHub, GitLab, Gitea/Forgejo, and Linear events, webhooks, and schedules.
 
 ## 🛠️ Vendor-Native SDKs & Protocols
 *Optimized for specific LLM providers and tool integration.*
